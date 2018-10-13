@@ -15,7 +15,7 @@
 
 **2) Clone the forked repository using:**
 
-    git clone https://github.com/ACM-NITK/Sample-Repository.git
+    git clone https://github.com/<your github user ID>/Sample-Repository.git
 
 **3) Change directory and create a folder with your name.**
 Inside the folder create a text file with your details.
